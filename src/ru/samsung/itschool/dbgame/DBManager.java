@@ -9,10 +9,9 @@ import android.database.sqlite.SQLiteDatabase;
 
 public class DBManager {
 	/*
-	 * TABLES: 
-           ------- 
-           RESULTS SCORE INTEGER USER VARCHAR
+	 * TABLES: ------ RESULTS SCORE INTEGER USER VARCHAR
 	 */
+	//просто коммент :)
 	private Context context;
 	private String DB_NAME = "game.db";
 
